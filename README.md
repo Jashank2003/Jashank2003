@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Jashank Jain</h1>
 <h3 align="center">A Coder And A Web developer🤖</h3>
 <img align  ="right" width = 400px src="/11602236_21004063-removebg-preview.png" alt="">
-
+<br><br>
+<br><br>
 
 - 🔭 I’m currently working on **Data structures and Algorithms**
 
@@ -11,7 +12,6 @@
 - 📫 How to reach me **jashankjain224@gmail.com**
 
 - ⚡ Fun fact **My English is Not too good 🥲**
-<br><br>
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
