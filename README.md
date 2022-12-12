@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jashank Jain</h1>
 <h3 align="center">A Coder And A Web developer🤖</h3>
 
+
 - 🔭 I’m currently working on **Data structures and Algorithms**
 
 - 🌱 I’m currently learning **DSA and Backend**
@@ -8,6 +9,7 @@
 - 📫 How to reach me **jashankjain224@gmail.com**
 
 - ⚡ Fun fact **My English is Not too good 🥲**
+- <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
