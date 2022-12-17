@@ -31,7 +31,7 @@
 
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashank2003&show_icons=true&locale=en&layout=compact" alt="jashank2003" /></p>
-
+<br> <br>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Jashank2003&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br><hr>
 <h3 align="left">Support:</h3>
