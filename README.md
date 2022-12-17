@@ -1,7 +1,7 @@
 <img src="/8924570_2738.jpg" alt="">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:10%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Jashank Jain</h1>
